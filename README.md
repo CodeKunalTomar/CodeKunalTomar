@@ -224,19 +224,22 @@
 ## <div align="center">🌟 Let's Connect & Collaborate</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Open+for+Collaboration!;Research+Partnerships;Industry+Opportunities;Open+Source+Contributions" alt="Collaboration" />
-</div>
 
-<div align="center">
+  <!-- Email -->
   <a href="mailto:kunaltomarmu26@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/📧_Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Badge" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kunal-tomar-ab0960248/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn Badge" />
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/CodeKunalTomar">
-    <img src="https://img.shields.io/badge/⭐_GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/⭐_GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Badge" />
   </a>
+
 </div>
 
 **🚀 Collaboration Opportunities:**
