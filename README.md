@@ -16,7 +16,7 @@
         <br>
         <img src="https://img.shields.io/badge/🏫_Institution-Medicaps_University-4285F4?style=for-the-badge&labelColor=0D1117" />
         <br>
-        <img src="https://img.shields.io/badge/📍_Location-Alwar,_Rajasthan-FF6B35?style=for-the-badge&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/📍_Location-Indore,_Madhya Pradesh-FF6B35?style=for-the-badge&labelColor=0D1117" />
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/⚡_Performance-10Hz_Real--Time-00D4AA?style=for-the-badge&labelColor=0D1117" />
