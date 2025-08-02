@@ -228,7 +228,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:kunaltomar.work@gmail.com">
+  <a href="mailto:kunaltomarmu26@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://www.linkedin.com/in/kunal-tomar-ab0960248/">
